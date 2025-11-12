@@ -1,2 +1,7 @@
-# .github
-OpenCHJ Project
+# OpenCHJ Project
+
+## Open Corpus of Holistic Japanese
+
+「オープンCHJ」はオープンライセンスのテキストデータにもとづいて構築し、形態論情報もオープンデータとして公開するコーパスです。
+
+2025年現在、国立国語研究所「通時コーパス」プロジェクトを中心に進めています。
